@@ -75,4 +75,7 @@ class my_insta_login():
         self.bot.follow(username)
         
 ```
+followers info data frame
+![img1](https://github.com/vishalbpatil1/Instagram-automatuion/blob/main/insta_followers_df.png)
 
+Thanks!
